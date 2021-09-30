@@ -14,7 +14,7 @@ const Student = (props) => {
     if (result === 'NaN') {
         result = 0
     }
-    
+
     return (
         <Container>
 
@@ -69,7 +69,7 @@ const Student = (props) => {
                         <td>
                             {
                                 cellNo?.map(cell =>
-                                    <li key={cell} className='list-unstyled'><a className='text-decoration-none' href="tel:${call}">Click To Call {cellNo}</a></li>
+                                    <li key={cell} className='list-unstyled'><a className='text-decoration-none' href={`tel:${parseInt(cell)}`}>Click To Call {cell}</a></li>
                                 )}
                         </td>
                     </tr>
