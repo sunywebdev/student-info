@@ -1,0 +1,1870 @@
+﻿[
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-101",
+        "boardRoll": "171919",
+        "regNo": "1500984478",
+        "name": "Mohammad Arafat Hossen",
+        "cellNo": [
+            "8801838457193"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801715408530",
+        "guardianCellNo": "8801846771390",
+        "location": "Rangunia"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "Cmt-18-015",
+        "boardRoll": "171922",
+        "regNo": "1500984474",
+        "name": "Rajlaxmi Dutta",
+        "cellNo": [
+            "8801777388630"
+        ],
+        "fatherCellNo": "8801737394904",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801737394904",
+        "location": "Kotowali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-007",
+        "boardRoll": "171923",
+        "regNo": "1500984472",
+        "name": "Saidul Islam",
+        "cellNo": [
+            "8801829320777"
+        ],
+        "fatherCellNo": "97162276645",
+        "motherCellNo": "8801780677498",
+        "guardianCellNo": "97162276645",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-039",
+        "boardRoll": "171924",
+        "regNo": "1500984471",
+        "name": "Ahasanul Hoque",
+        "cellNo": [
+            "8801823690270"
+        ],
+        "fatherCellNo": "8801817350200",
+        "motherCellNo": "8801813876405",
+        "guardianCellNo": "8801817350200",
+        "location": "Banshkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-064",
+        "boardRoll": "171926",
+        "regNo": "1500984469",
+        "name": "Any Dey",
+        "cellNo": [
+            "8801839362439"
+        ],
+        "fatherCellNo": "8801812368741",
+        "motherCellNo": "8801839362439",
+        "guardianCellNo": "8801817789947",
+        "location": "Patiya"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-059",
+        "boardRoll": "171927",
+        "regNo": "1500984468",
+        "name": "Abdur Raihan Shawon",
+        "cellNo": [
+            "8801851805013"
+        ],
+        "fatherCellNo": "8801819626905",
+        "motherCellNo": "8801813840220",
+        "guardianCellNo": "8801814434419",
+        "location": "Hathazari"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-134",
+        "boardRoll": "171928",
+        "regNo": "1500984466",
+        "name": "Sadman Al Israr",
+        "cellNo": [
+            "8801875220366"
+        ],
+        "fatherCellNo": "8801711735406",
+        "motherCellNo": "8801715012997",
+        "guardianCellNo": "8801842172780",
+        "location": "Panchlaish"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-062",
+        "boardRoll": "171929",
+        "regNo": "1500984465",
+        "name": "Abdul Bin yaser",
+        "cellNo": [
+            "8801991234399"
+        ],
+        "fatherCellNo": "8801971824244",
+        "motherCellNo": "8801721824244",
+        "guardianCellNo": "8801971824244",
+        "location": "Bandar"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-089",
+        "boardRoll": "171930",
+        "regNo": "1500984464",
+        "name": "Shipan Miah",
+        "cellNo": [
+            "8801715810788"
+        ],
+        "fatherCellNo": "8801786616421",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801731740458",
+        "location": "Panchlaish"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-030",
+        "boardRoll": "171931",
+        "regNo": "1500984463",
+        "name": "Anisul Hakim Rony",
+        "cellNo": [
+            "8801590131738"
+        ],
+        "fatherCellNo": "8801840160332",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801878128354",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-010",
+        "boardRoll": "171932",
+        "regNo": "1500984462",
+        "name": "Imam Hossain Shahin",
+        "cellNo": [
+            "8801875978533"
+        ],
+        "fatherCellNo": "8801845544216",
+        "motherCellNo": "8801813630821",
+        "guardianCellNo": "8801835900817",
+        "location": "Sitakunda"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-027",
+        "boardRoll": "171933",
+        "regNo": "1500984461",
+        "name": "Md. Jaker Hossan",
+        "cellNo": [
+            "8801876644881",
+            "8801876612593"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801881123074",
+        "guardianCellNo": "88018555540340",
+        "location": "Hathazari"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-117",
+        "boardRoll": "171934",
+        "regNo": "1500984459",
+        "name": "Sheikh Tanvir Ahammed",
+        "cellNo": [
+            "8801834292488"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801814815624",
+        "guardianCellNo": "8801814815624",
+        "location": "Sitakunda"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-065",
+        "boardRoll": "171938",
+        "regNo": "1500984455",
+        "name": "Jinnat Ara",
+        "cellNo": [
+            "8801878339285"
+        ],
+        "fatherCellNo": "8801742523303",
+        "motherCellNo": "8801840847081",
+        "guardianCellNo": "8801839688665",
+        "location": "Halishahar"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-023",
+        "boardRoll": "171939",
+        "regNo": "1500984454",
+        "name": "Musaddakul Hossain Miskat",
+        "cellNo": [
+            "8801537313568"
+        ],
+        "fatherCellNo": "8801814266745",
+        "motherCellNo": "8801829340101",
+        "guardianCellNo": "8801829340101",
+        "location": "Karnafully"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-019",
+        "boardRoll": "171940",
+        "regNo": "1500984453",
+        "name": "Pinak Bhowmik",
+        "cellNo": [
+            "8801832734409"
+        ],
+        "fatherCellNo": "8801820040610",
+        "motherCellNo": "8801813180071",
+        "guardianCellNo": "8801820040610",
+        "location": "Double Mooring"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-035",
+        "boardRoll": "171941",
+        "regNo": "1500984448",
+        "name": "Mohammad Imtiaj Uddin Raihan",
+        "cellNo": [
+            "8801884870384"
+        ],
+        "fatherCellNo": "8801856704746",
+        "motherCellNo": "8801814323958",
+        "guardianCellNo": "8801838977010",
+        "location": "pekua"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-031",
+        "boardRoll": "171942",
+        "regNo": "1500984447",
+        "name": "Mohammad Rashed",
+        "cellNo": [
+            "8801830956034"
+        ],
+        "fatherCellNo": "96567363208",
+        "motherCellNo": "8801869636206",
+        "guardianCellNo": "8801825000138",
+        "location": "Banshkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-028",
+        "boardRoll": "171943",
+        "regNo": "1500984446",
+        "name": "Biraswar Roy Raja",
+        "cellNo": [
+            "8801850177045"
+        ],
+        "fatherCellNo": "8801819837865",
+        "motherCellNo": "8801851841380",
+        "guardianCellNo": "8801819968299",
+        "location": "Potiya"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-090",
+        "boardRoll": "171945",
+        "regNo": "1500984443",
+        "name": "Anik Barua",
+        "cellNo": [
+            "8801629187592"
+        ],
+        "fatherCellNo": "8801872526863",
+        "motherCellNo": "8801923506893",
+        "guardianCellNo": "8801715724990",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-091",
+        "boardRoll": "171946",
+        "regNo": "1500984441",
+        "name": "Dipta Das Gupta",
+        "cellNo": [
+            "8801876836215"
+        ],
+        "fatherCellNo": "8801876836215",
+        "motherCellNo": "8801815058966",
+        "guardianCellNo": "8801815658967",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-052",
+        "boardRoll": "171947",
+        "regNo": "1500984440",
+        "name": "Rashedul Islam",
+        "cellNo": [
+            "8801748358717"
+        ],
+        "fatherCellNo": "9647505739",
+        "motherCellNo": "8801917243662",
+        "guardianCellNo": "9647505739",
+        "location": "Sitakunda"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-047",
+        "boardRoll": "171948",
+        "regNo": "1500984438",
+        "name": "Hridoy Barua",
+        "cellNo": [
+            "8801632000602"
+        ],
+        "fatherCellNo": "8801632087077",
+        "motherCellNo": "8801610192211",
+        "guardianCellNo": "8801632087077",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-034",
+        "boardRoll": "171949",
+        "regNo": "1500984437",
+        "name": "Amir Khan",
+        "cellNo": [
+            "8801872469404"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801846776898",
+        "guardianCellNo": "8801860611613",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-033",
+        "boardRoll": "171950",
+        "regNo": "1500984435",
+        "name": "Farhana Akther Munni",
+        "cellNo": [
+            "8801641559621"
+        ],
+        "fatherCellNo": "8801832478034",
+        "motherCellNo": "8801832478034",
+        "guardianCellNo": "8801861931009",
+        "location": "Patiya"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-009",
+        "boardRoll": "171951",
+        "regNo": "1500984434",
+        "name": "Towhidul islam",
+        "cellNo": [
+            "8801851217478"
+        ],
+        "fatherCellNo": "8801858847222",
+        "motherCellNo": "8801846650486",
+        "guardianCellNo": "8801858847222",
+        "location": "Banshkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "Cmt-18-011",
+        "boardRoll": "171952",
+        "regNo": "1500984433",
+        "name": "Any Das",
+        "cellNo": [
+            "8801881715093",
+            "8801772728867"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801876084536",
+        "guardianCellNo": "8801881390075",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-085",
+        "boardRoll": "171953",
+        "regNo": "1500984432",
+        "name": "Jubaraj Achariya",
+        "cellNo": [
+            "8801862391957"
+        ],
+        "fatherCellNo": "8801820306859",
+        "motherCellNo": "8801840332545",
+        "guardianCellNo": "8801820306859",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-069",
+        "boardRoll": "171954",
+        "regNo": "1500984428",
+        "name": "Md Sharaful Hoque",
+        "cellNo": [
+            "8801828923041",
+            "8801317619031"
+        ],
+        "fatherCellNo": "8801828392965",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801828392965",
+        "location": "Charjabbar"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-063",
+        "boardRoll": "171955",
+        "regNo": "1500984427",
+        "name": "Sarowar Hossain Riad",
+        "cellNo": [
+            "8801834854956"
+        ],
+        "fatherCellNo": "8801817765959",
+        "guardianCellNo": "8801817765959",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-060",
+        "boardRoll": "171956",
+        "regNo": "1500984426",
+        "name": "MD Armanur Rahman",
+        "cellNo": [
+            "8801815350150"
+        ],
+        "fatherCellNo": "8801837612537",
+        "motherCellNo": "8801815350150",
+        "guardianCellNo": "8801871151620",
+        "location": "Rangunia"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-054",
+        "boardRoll": "171957",
+        "regNo": "1500984425",
+        "name": "Mahfujul Haq Shafin",
+        "cellNo": [
+            "8801811871498"
+        ],
+        "fatherCellNo": "966531846506",
+        "motherCellNo": "8801812375773",
+        "guardianCellNo": "8801842760547",
+        "location": "Chandanaish"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-071",
+        "boardRoll": "171959",
+        "regNo": "1500984422",
+        "name": "Shatu Das",
+        "cellNo": [
+            "8801909115446"
+        ],
+        "fatherCellNo": "8801873300007",
+        "motherCellNo": "8801854584414",
+        "guardianCellNo": "8801878577877",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-088",
+        "boardRoll": "171960",
+        "regNo": "1500984421",
+        "name": "Md. Arman Sheikh",
+        "cellNo": [
+            "8801725517907"
+        ],
+        "fatherCellNo": "8801940732191",
+        "motherCellNo": "8801994422892",
+        "guardianCellNo": "8801940732191",
+        "location": "Kochua"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-046",
+        "boardRoll": "171961",
+        "regNo": "1500984419",
+        "name": "Mohammad Tarequr Rahman tasin",
+        "cellNo": [
+            "8801830568711"
+        ],
+        "fatherCellNo": "8801715501381",
+        "motherCellNo": "8801813732138",
+        "guardianCellNo": "8801819903891",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CmT-18-002",
+        "boardRoll": "171962",
+        "regNo": "1500984418",
+        "name": "Abu Sufian",
+        "cellNo": [
+            "8801864990738"
+        ],
+        "fatherCellNo": "8801815573666",
+        "motherCellNo": "8801858641057",
+        "guardianCellNo": "8801815573666",
+        "location": "Sitakunda"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-001",
+        "boardRoll": "171963",
+        "regNo": "1500984417",
+        "name": "Fatema Tuz Zuhara",
+        "cellNo": [
+            "8801851219891"
+        ],
+        "fatherCellNo": "8801839238848",
+        "motherCellNo": "880183923848",
+        "guardianCellNo": "880183923848",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-013",
+        "boardRoll": "171964",
+        "regNo": "1500984416",
+        "name": "Mosharaf Hossen",
+        "cellNo": [
+            "8801826202086"
+        ],
+        "fatherCellNo": "8801830544542",
+        "motherCellNo": "8801688020097",
+        "guardianCellNo": "8801789132106",
+        "location": "Sadarghat"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-075",
+        "boardRoll": "171965",
+        "regNo": "1500984414",
+        "name": "MD Sanjid Chowdhury",
+        "cellNo": [
+            "8801627682147"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801827475836",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-127",
+        "boardRoll": "171966",
+        "regNo": "1500984413",
+        "name": "Ariful Islam",
+        "cellNo": [
+            "8801632095038",
+            "8801830134593"
+        ],
+        "fatherCellNo": "8801854977232",
+        "motherCellNo": "8801813801927",
+        "guardianCellNo": "8801862837478",
+        "location": "Patenga"
+    },
+    {
+        "session": "18-19",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-050",
+        "boardRoll": "171967",
+        "regNo": "1500984411",
+        "name": "Mohammad Absar",
+        "cellNo": [
+            "8801867125452"
+        ],
+        "fatherCellNo": "8801834793730",
+        "guardianCellNo": "8801820550617",
+        "location": "Anowara"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-042",
+        "boardRoll": "171968",
+        "regNo": "1500984410",
+        "name": "Abdul Khalak",
+        "cellNo": [
+            "8801874818931"
+        ],
+        "fatherCellNo": "96896590283",
+        "motherCellNo": "8801861710291",
+        "guardianCellNo": "8801867923429",
+        "location": "Rangunia"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-118",
+        "boardRoll": "171969",
+        "regNo": "1500984409",
+        "name": "Md Yeasin Khan",
+        "cellNo": [
+            "8801788308358"
+        ],
+        "fatherCellNo": "8801842598383",
+        "motherCellNo": "8801939637854",
+        "guardianCellNo": "8801842598383",
+        "location": "Sitakunda"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-106",
+        "boardRoll": "171970",
+        "regNo": "1500984408",
+        "name": "Jahed Hossen",
+        "cellNo": [
+            "8801853081719",
+            "8801875379923"
+        ],
+        "fatherCellNo": "8801840900447",
+        "motherCellNo": "8801840772160",
+        "guardianCellNo": "8801840772160",
+        "location": "chandanaish"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-104",
+        "boardRoll": "171971",
+        "regNo": "1500984407",
+        "name": "Aung Thai Kei",
+        "cellNo": [
+            "8801820871603"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801837015456",
+        "location": "Moheshkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-123",
+        "boardRoll": "171972",
+        "regNo": "1500984406",
+        "name": "Shahidul Islam",
+        "cellNo": [
+            "8801882582930"
+        ],
+        "fatherCellNo": "8801815668286",
+        "motherCellNo": "8801815668287",
+        "guardianCellNo": "8801815668286",
+        "location": "N/A"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-051",
+        "boardRoll": "171973",
+        "regNo": "1500984404",
+        "name": "Al Mumin Chowdhury",
+        "cellNo": [
+            "8801822186232"
+        ],
+        "fatherCellNo": "971566955086",
+        "motherCellNo": "8801820079534",
+        "guardianCellNo": "8801820079534",
+        "location": "Boalkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-014",
+        "boardRoll": "171974",
+        "regNo": "1500984403",
+        "name": "Md Samir",
+        "cellNo": [
+            "8801877451228"
+        ],
+        "fatherCellNo": "8801859404190",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801859404190",
+        "location": "Sandwip"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-116",
+        "boardRoll": "171976",
+        "regNo": "1500984401",
+        "name": "Rasel Uddin",
+        "cellNo": [
+            "8801840203697"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801814895007",
+        "guardianCellNo": "8801829452718",
+        "location": "Vujpur"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-113",
+        "boardRoll": "171977",
+        "regNo": "1500984400",
+        "name": "Md Tareq Hossen Sijan",
+        "cellNo": [
+            "8801848174142"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801819983387",
+        "guardianCellNo": "8801819917265",
+        "location": "Karnafully"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-074",
+        "boardRoll": "171980",
+        "regNo": "1500984397",
+        "name": "Md. Obaidul Islam Chy",
+        "cellNo": [
+            "8801725508028"
+        ],
+        "fatherCellNo": "8801813087855",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801881210867",
+        "location": "Chawkbazar"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-082",
+        "boardRoll": "171981",
+        "regNo": "1500984396",
+        "name": "Elti Pankhua",
+        "cellNo": [
+            "8801550555812"
+        ],
+        "fatherCellNo": "8801556626769",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801554887751",
+        "location": "Kotowali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-084",
+        "boardRoll": "171982",
+        "regNo": "1500984394",
+        "name": "MD Yasin Afsar",
+        "cellNo": [
+            "8801848394861"
+        ],
+        "fatherCellNo": "966550636473",
+        "motherCellNo": "8801867535415",
+        "guardianCellNo": "8801867535415",
+        "location": "Rangunia"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-103",
+        "boardRoll": "171983",
+        "regNo": "1500984393",
+        "name": "Pranta Barua",
+        "cellNo": [
+            "8801852170528"
+        ],
+        "fatherCellNo": "8801874481715",
+        "motherCellNo": "8801815850785",
+        "guardianCellNo": "N/A",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-008",
+        "boardRoll": "171984",
+        "regNo": "1500984392",
+        "name": "Shahriyar Alom",
+        "cellNo": [
+            "8801881050115"
+        ],
+        "fatherCellNo": "8801875038356",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801875569127",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CmT-18-005",
+        "boardRoll": "171985",
+        "regNo": "1500984391",
+        "name": "Kaysue Mong Marma",
+        "cellNo": [
+            "8801862051588"
+        ],
+        "fatherCellNo": "8801823864776",
+        "motherCellNo": "8801823839301",
+        "guardianCellNo": "8801829669176",
+        "location": "Kawkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-068",
+        "boardRoll": "171986",
+        "regNo": "1500984389",
+        "name": "Md Shahadullah",
+        "cellNo": [
+            "8801875503959"
+        ],
+        "fatherCellNo": "8801817760932",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801817760932",
+        "location": "Hathazari"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "Cmt-18-017",
+        "boardRoll": "171987",
+        "regNo": "1500984388",
+        "name": "Jakia Khanam",
+        "cellNo": [
+            "8801833480496"
+        ],
+        "fatherCellNo": "8801792466085",
+        "motherCellNo": "8801818355323",
+        "guardianCellNo": "8801818355323",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CmT-18-003",
+        "boardRoll": "171988",
+        "regNo": "1500984387",
+        "name": "Minhaz M Rahman Tutul",
+        "cellNo": [
+            "8801866344577"
+        ],
+        "fatherCellNo": "8801850569419",
+        "motherCellNo": "8801861643149",
+        "guardianCellNo": "8801850569419",
+        "location": "Boalkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-057",
+        "boardRoll": "171989",
+        "regNo": "1500984386",
+        "name": "Mohammad Emon",
+        "cellNo": [
+            "8801867602107",
+            "8801586129267"
+        ],
+        "fatherCellNo": "8801825662910",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801825662970/01889267889",
+        "location": "Bayzid"
+    },
+    {
+        "session": "18-19",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-130",
+        "boardRoll": "171990",
+        "regNo": "1500984385",
+        "name": "Akter Hossain",
+        "cellNo": [
+            "8801832228750"
+        ],
+        "fatherCellNo": "8801832228747",
+        "motherCellNo": "8801815513612",
+        "guardianCellNo": "8801879407184",
+        "location": "Bakolia"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-036",
+        "boardRoll": "171991",
+        "regNo": "1500984384",
+        "name": "Ratri Das",
+        "cellNo": [
+            "N/A"
+        ],
+        "fatherCellNo": "8801833402269",
+        "motherCellNo": "8801833402251",
+        "guardianCellNo": "8801833402269",
+        "location": "Patherghata"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-018",
+        "boardRoll": "171993",
+        "regNo": "1500984382",
+        "name": "Md. Sohel",
+        "cellNo": [
+            "8801628441263"
+        ],
+        "fatherCellNo": "8801831983676",
+        "motherCellNo": "8801815019062",
+        "guardianCellNo": "8801815019062",
+        "location": "Anowara"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-072",
+        "boardRoll": "171994",
+        "regNo": "1500984380",
+        "name": "MD Yasin",
+        "cellNo": [
+            "8801866186632"
+        ],
+        "fatherCellNo": "8801612521536",
+        "motherCellNo": "8801812521536",
+        "guardianCellNo": "8801766014873",
+        "location": "Bakolia"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-080",
+        "boardRoll": "171995",
+        "regNo": "1500984379",
+        "name": "Md Mehedi Hasan",
+        "cellNo": [
+            "8801817639515"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801817781685",
+        "guardianCellNo": "8801826588538",
+        "location": "Akborshah"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-079",
+        "boardRoll": "171996",
+        "regNo": "1500984378",
+        "name": "Shariar Khan",
+        "cellNo": [
+            "8801866653968"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801864838743",
+        "guardianCellNo": "8801866658259",
+        "location": "Akborshah"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-078",
+        "boardRoll": "171997",
+        "regNo": "1500984377",
+        "name": "Kamruzzaman Manna",
+        "cellNo": [
+            "8801868910995",
+            "8801870268287"
+        ],
+        "fatherCellNo": "8801734042879",
+        "motherCellNo": "8801820323508",
+        "guardianCellNo": "8801817454912",
+        "location": "Rangunia"
+    },
+    {
+        "session": "18-19",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-083",
+        "boardRoll": "171998",
+        "regNo": "1500984376",
+        "name": "Shanta Barua",
+        "cellNo": [
+            "8801862860868"
+        ],
+        "fatherCellNo": "8801867413272",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801867413272",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-067",
+        "boardRoll": "171999",
+        "regNo": "1500984374",
+        "name": "Pitabas Das",
+        "cellNo": [
+            "8801776799517"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801781407978",
+        "location": "Pahartali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-061",
+        "boardRoll": "172000",
+        "regNo": "1500984372",
+        "name": "Md Hasib Sheikh",
+        "cellNo": [
+            "8801991616423"
+        ],
+        "fatherCellNo": "8801711034374",
+        "motherCellNo": "8801996465358",
+        "guardianCellNo": "8801711034374",
+        "location": "Bandar"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-006",
+        "boardRoll": "172001",
+        "regNo": "1500984371",
+        "name": "Moheuddin Shakib",
+        "cellNo": [
+            "8801830141403"
+        ],
+        "fatherCellNo": "8801812845855",
+        "motherCellNo": "8801832268336",
+        "guardianCellNo": "8801812845855",
+        "location": "Akborshah"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CmT-18-004",
+        "boardRoll": "172002",
+        "regNo": "1500984370",
+        "name": "Kazi Abdullah Al Nobin",
+        "cellNo": [
+            "8801845495793"
+        ],
+        "fatherCellNo": "8801850569419",
+        "motherCellNo": "8801863356142",
+        "guardianCellNo": "8801850569419",
+        "location": "Boalkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-086",
+        "boardRoll": "172004",
+        "regNo": "1500984368",
+        "name": "Joytu Nandy",
+        "cellNo": [
+            "8801874440355"
+        ],
+        "fatherCellNo": "8801813578019",
+        "motherCellNo": "8801815628767",
+        "guardianCellNo": "8801860383576",
+        "location": "Kotowali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-137",
+        "boardRoll": "172005",
+        "regNo": "1500984366",
+        "name": "MD Jalal Uddin",
+        "cellNo": [
+            "8801869450076"
+        ],
+        "fatherCellNo": "8801819542767",
+        "motherCellNo": "8801825269838",
+        "guardianCellNo": "8801819542767",
+        "location": "Raojan"
+    },
+    {
+        "session": "18-19",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-016",
+        "boardRoll": "172007",
+        "regNo": "1500984364",
+        "name": "Rony Hasan",
+        "cellNo": [
+            "8801907958492"
+        ],
+        "fatherCellNo": "8801991520460",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801991520460",
+        "location": "Bandarban"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-012",
+        "boardRoll": "172008",
+        "regNo": "1500984363",
+        "name": "MD Jahidul Islam",
+        "cellNo": [
+            "8801768411403"
+        ],
+        "fatherCellNo": "971564536504",
+        "motherCellNo": "8801815853801",
+        "guardianCellNo": "8801815853801",
+        "location": "Hathazari"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-136",
+        "boardRoll": "172009",
+        "regNo": "1500984362",
+        "name": "Joywanti Chowdhury",
+        "cellNo": [
+            "8801859213482"
+        ],
+        "fatherCellNo": "8801859612613",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801859612613",
+        "location": "Anowara"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-102",
+        "boardRoll": "172010",
+        "regNo": "1500984361",
+        "name": "Afroza Rahman",
+        "cellNo": [
+            "8801785962998"
+        ],
+        "fatherCellNo": "880171185285",
+        "motherCellNo": "8801919367036",
+        "guardianCellNo": "8801819367036",
+        "location": "Hathazari"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-122",
+        "boardRoll": "172011",
+        "regNo": "1500984360",
+        "name": "MD Jasim Uddin",
+        "cellNo": [
+            "8801860818563"
+        ],
+        "fatherCellNo": "8801811921798",
+        "motherCellNo": "8801811921798",
+        "guardianCellNo": "8801811921798",
+        "location": "Banshkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-109",
+        "boardRoll": "172012",
+        "regNo": "1500984358",
+        "name": "Saimun Islam",
+        "cellNo": [
+            "8801997492749"
+        ],
+        "fatherCellNo": "8801815580397",
+        "motherCellNo": "8801815580397",
+        "guardianCellNo": "8801815580397",
+        "location": "Chawkbazar"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-094",
+        "boardRoll": "172015",
+        "regNo": "1500984354",
+        "name": "Shoyeb Mohammed Suny",
+        "cellNo": [
+            "8801861917938"
+        ],
+        "fatherCellNo": "8801728831653",
+        "motherCellNo": "8801674004576",
+        "guardianCellNo": "8801728831653",
+        "location": "Karnafully"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-125",
+        "boardRoll": "172016",
+        "regNo": "1500984353",
+        "name": "MD Safayet islam",
+        "cellNo": [
+            "8801979392955"
+        ],
+        "fatherCellNo": "8801819392955",
+        "motherCellNo": "8801814107169",
+        "guardianCellNo": "8801819392955",
+        "location": "Kotowali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-110",
+        "boardRoll": "172019",
+        "regNo": "1500984350",
+        "name": "MD Nasir uddin",
+        "cellNo": [
+            "8801862832036"
+        ],
+        "fatherCellNo": "8801634233883",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801634233883",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-055",
+        "boardRoll": "172020",
+        "regNo": "1500984349",
+        "name": "Ahsan Mustafa",
+        "cellNo": [
+            "8801718006282"
+        ],
+        "fatherCellNo": "8801864811355",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801864811355",
+        "location": "Boalkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-040",
+        "boardRoll": "172021",
+        "regNo": "1500984348",
+        "name": "Mohammad Mohaimenul Islam Rabbee",
+        "cellNo": [
+            "8801736381921"
+        ],
+        "fatherCellNo": "8801715173131",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801821651391",
+        "location": "Hathazari"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-029",
+        "boardRoll": "172022",
+        "regNo": "1500984347",
+        "name": "Rita Barua",
+        "cellNo": [
+            "N/A"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801845331882",
+        "guardianCellNo": "8801845331882",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-098",
+        "boardRoll": "172023",
+        "regNo": "1500984346",
+        "name": "Gourab Barua",
+        "cellNo": [
+            "8801946996991"
+        ],
+        "fatherCellNo": "8801819615738",
+        "motherCellNo": "8801911267247",
+        "guardianCellNo": "8801819615738",
+        "location": "Kotowali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-111",
+        "boardRoll": "172024",
+        "regNo": "1500984345",
+        "name": "Jhuntu Rudrapaul",
+        "cellNo": [
+            "8801822605512"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801851906605",
+        "guardianCellNo": "8801851906605",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-124",
+        "boardRoll": "172026",
+        "regNo": "1500984343",
+        "name": "Ohin Barua Chowdhury",
+        "cellNo": [
+            "8801778027241"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801875787359",
+        "location": "Kotowali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-066",
+        "boardRoll": "172027",
+        "regNo": "1500984342",
+        "name": "MD Mizanur Rahman",
+        "cellNo": [
+            "8801839688665"
+        ],
+        "fatherCellNo": "8801742523303",
+        "motherCellNo": "8801840847081",
+        "guardianCellNo": "8801742523303",
+        "location": "Halishahar"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-077",
+        "boardRoll": "172028",
+        "regNo": "1500984341",
+        "name": "Arafat Hossain",
+        "cellNo": [
+            "8801837273862",
+            "8801866881185"
+        ],
+        "fatherCellNo": "971569541505",
+        "motherCellNo": "8801830154372",
+        "guardianCellNo": "8801811690309",
+        "location": "Mirsarai"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-073",
+        "boardRoll": "172029",
+        "regNo": "1500984339",
+        "name": "Jibon Krishna Nath",
+        "cellNo": [
+            "8801843389274"
+        ],
+        "fatherCellNo": "8801819338528",
+        "motherCellNo": "8801815764402",
+        "guardianCellNo": "4407466380984",
+        "location": "Karnafully"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-107",
+        "boardRoll": "172030",
+        "regNo": "1500984337",
+        "name": "Abdul Awal Chy",
+        "cellNo": [
+            "N/A"
+        ],
+        "fatherCellNo": "8801830225923",
+        "motherCellNo": "8801824766951",
+        "guardianCellNo": "8801866963111",
+        "location": "Halishahar"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-139",
+        "boardRoll": "172031",
+        "regNo": "1500984336",
+        "name": "Farhan Reza Chowdhury",
+        "cellNo": [
+            "8801778991249"
+        ],
+        "fatherCellNo": "8801711789078",
+        "motherCellNo": "8801828444953",
+        "guardianCellNo": "8801677683976",
+        "location": "Sitakunda"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-053",
+        "boardRoll": "172032",
+        "regNo": "1500984335",
+        "name": "MD Nizam Uddin",
+        "cellNo": [
+            "8801871078928"
+        ],
+        "fatherCellNo": "8801749292713",
+        "motherCellNo": "8801714436667",
+        "guardianCellNo": "8801715779791",
+        "location": "Nangolkot"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-049",
+        "boardRoll": "172033",
+        "regNo": "1500984334",
+        "name": "Mohammed Sahadat Hosen",
+        "cellNo": [
+            "8801829467331"
+        ],
+        "fatherCellNo": "8801819643616",
+        "motherCellNo": "8801869519268",
+        "guardianCellNo": "8801818611972",
+        "location": "Hathazari"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "A",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-041",
+        "boardRoll": "172034",
+        "regNo": "1500984331",
+        "name": "Saadman Tazwar",
+        "cellNo": [
+            "8801876841179"
+        ],
+        "fatherCellNo": "8801832340441",
+        "motherCellNo": "N/A",
+        "guardianCellNo": "8801819817111",
+        "location": "Boalkhali"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "Cmt-18-037",
+        "boardRoll": "172035",
+        "regNo": "1500984330",
+        "name": "Fares Alvi",
+        "cellNo": [
+            "8801640412461"
+        ],
+        "fatherCellNo": "8801819359378",
+        "motherCellNo": "8801816369720",
+        "guardianCellNo": "8801819359378",
+        "location": "Patiya"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Female",
+        "classRoll": "CMT-18-032",
+        "boardRoll": "172036",
+        "regNo": "1500984328",
+        "name": "Bristy Barua",
+        "cellNo": [
+            "8801815027100"
+        ],
+        "fatherCellNo": "8801820536195",
+        "motherCellNo": "8801815027100",
+        "guardianCellNo": "8801815027100",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-076",
+        "boardRoll": "181144",
+        "regNo": "1500984340",
+        "name": "Ibne Kashem",
+        "cellNo": [
+            "8801839689546"
+        ],
+        "fatherCellNo": "8801753819977",
+        "motherCellNo": "8801818848630",
+        "guardianCellNo": "8801815609314",
+        "location": "Raozan"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-132",
+        "boardRoll": "181145",
+        "regNo": "1500984338",
+        "name": "Ashraf Uddin Jubel",
+        "cellNo": [
+            "8801851842197"
+        ],
+        "fatherCellNo": "8801818685641",
+        "motherCellNo": "8801633295902",
+        "guardianCellNo": "8801820189688",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-135",
+        "boardRoll": "182145",
+        "regNo": "1500999491",
+        "name": "Monirul Islam",
+        "cellNo": [
+            "8801839554478"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801814310590",
+        "guardianCellNo": "8801814310590",
+        "location": "Akborshah"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-119",
+        "boardRoll": "182328",
+        "regNo": "1500984424",
+        "name": "Abu Talha MD Jehad",
+        "cellNo": [
+            "8801866456125"
+        ],
+        "fatherCellNo": "8801817270163",
+        "motherCellNo": "8801828845300",
+        "guardianCellNo": "8801829066422",
+        "location": "Chandgaon"
+    },
+    {
+        "session": "18-19",
+        "semester": "5th",
+        "section": "B",
+        "dept": "Computer",
+        "gender": "Male",
+        "classRoll": "CMT-18-141",
+        "boardRoll": "182147",
+        "regNo": "1500984431",
+        "name": "Joy Krishna Talukder",
+        "cellNo": [
+            "8801861708222"
+        ],
+        "fatherCellNo": "N/A",
+        "motherCellNo": "8801766005397",
+        "guardianCellNo": "8801864534214",
+        "location": "Raozan"
+    }
+]
