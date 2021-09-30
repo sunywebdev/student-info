@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { Container } from 'react-bootstrap';
 import { Route } from 'react-router';
 import { BrowserRouter, Switch } from 'react-router-dom';
 import Student from '../student/Student';
@@ -9,14 +10,26 @@ const Home = () => {
     useEffect(() => {
         fetch('/studentData.json')
             .then(res => res.json())
-            .then(data => setStudents(data))
+            .then(data => {
+                setStudents(data)
+                setsearchStudent(data)
+            })
     }, [])
+    const [searchStudent, setsearchStudent] = useState([])
+    const search = (event) => {
+        const searchText = event.target.value
+        const search = students.filter(student => student.name.toLowerCase().includes(searchText.toLowerCase()))
+        setsearchStudent(search)
+    }
     return (
-        <div>
+        <Container>
             <BrowserRouter>
                 <Switch>
                     <Route exact path='/'>
-                        <Students students={students}></Students>
+                        <Students
+                            students={searchStudent}
+                            search={search}
+                        ></Students>
                     </Route>
                 </Switch>
                 <Switch>
@@ -25,7 +38,7 @@ const Home = () => {
                     </Route>
                 </Switch>
             </BrowserRouter>
-        </div>
+        </Container>
     );
 };
 
