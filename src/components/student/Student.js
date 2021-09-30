@@ -14,8 +14,7 @@ const Student = (props) => {
     if (result === 'NaN') {
         result = 0
     }
-    const call = parseInt(cellNo)
-
+    
     return (
         <Container>
 
