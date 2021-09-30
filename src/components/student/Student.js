@@ -10,10 +10,7 @@ const Student = (props) => {
     const { name, gender, semester, session, dept, section, classRoll, regNo, cellNo, result1st, result2nd, result3rd, result4th
     } = student || {}
 
-    let result = ((parseFloat(result1st) / 5) + (parseFloat(result2nd) / 5) + (parseFloat(result3rd) / 5) + (parseFloat(result4th) / 10)).toFixed(2)
-    if (result === 'NaN') {
-        result = 0
-    }
+    const result = ((parseFloat(result1st) / 5) + (parseFloat(result2nd) / 5) + ((result3rd === 'R' ? 0 : parseFloat(result3rd)) / 5) + ((result4th === 'R' ? 0 : parseFloat(result4th)) / 10)).toFixed(2)
 
     return (
         <Container>
