@@ -1,0 +1,18 @@
+.table{
+    border: 2px solid #FE676D !important;
+}
+.button{
+background-color: #FE676D !important;
+color: #fff !important;
+}
+.fw-bold{
+    color:#FE676D !important;
+}
+.result{
+    background-color:#FE676D !important;
+    color: #fff !important;
+    font-weight: bold !important;
+}
+tr{
+    border: 2px solid #FE676D !important;
+}

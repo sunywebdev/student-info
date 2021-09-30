@@ -1,6 +1,7 @@
 import { Button, Container, Image, Table } from 'react-bootstrap';
 import { useParams } from 'react-router';
 import { Link } from 'react-router-dom';
+import './Student.css'
 
 const Student = (props) => {
     const { students } = props
@@ -21,7 +22,7 @@ const Student = (props) => {
                 <Image src="/female.jpg" roundedCircle />
             }
             <h2>{name}</h2>
-            <Table striped bordered hover size="sm">
+            <Table bordered size="sm" className='table'>
                 <thead>
                 </thead>
                 <tbody>
@@ -66,14 +67,14 @@ const Student = (props) => {
                         <td>
                             {
                                 cellNo?.map(cell =>
-                                    <li key={cell} className='list-unstyled'><Button className='text-decoration-none py-1 my-1' href={`tel:${parseInt(cell)}`}>Click To Call {cell}</Button></li>
+                                    <li key={cell} className='list-unstyled'><Button className='text-decoration-none py-1 my-1 button' href={`tel:${parseInt(cell)}`}>Click To Call {cell}</Button></li>
                                 )}
                         </td>
                     </tr>
                     <tr>
                         <td className="align-middle fw-bold">Result</td>
                         <td>
-                            <Table striped bordered hover size="sm">
+                            <Table bordered size="sm" className=' m-0'>
                                 <tbody>
                                     <tr>
                                         <td className='fw-bold'>1st Semester</td>
@@ -107,8 +108,8 @@ const Student = (props) => {
                                         <td className='fw-bold'>8th Semester</td>
                                         <td>Exam is pending</td>
                                     </tr>
-                                    <tr className="bg-info">
-                                        <td className='fw-bold'>CGPA</td>
+                                    <tr className="result">
+                                        <td className=''>CGPA</td>
                                         <td>{result}
 
 
@@ -120,7 +121,7 @@ const Student = (props) => {
                     </tr>
                 </tbody>
             </Table>
-            <Link exact to='/'>  <Button> Back To Home</Button></Link>
+            <Link exact to='/'>  <Button className='button'> Back To Home</Button></Link>
         </Container >
     );
 };
