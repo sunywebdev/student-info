@@ -69,7 +69,7 @@ const Student = (props) => {
                         <td>
                             {
                                 cellNo?.map(cell =>
-                                    <li key={cell} className='list-unstyled'><a className='text-decoration-none' href={`tel:${parseInt(cell)}`}>Click To Call {cell}</a></li>
+                                    <li key={cell} className='list-unstyled'><Button className='text-decoration-none py-1 my-1' href={`tel:${parseInt(cell)}`}>Click To Call {cell}</Button></li>
                                 )}
                         </td>
                     </tr>
