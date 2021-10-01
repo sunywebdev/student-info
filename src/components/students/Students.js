@@ -1,4 +1,4 @@
-import { Card, Col, Row, Button, Placeholder } from 'react-bootstrap';
+import { Card, Col, Row, Button, Placeholder, Spinner } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './Students.css'
 
@@ -10,12 +10,13 @@ const Students = (props) => {
         <>
             {students.length === 0 ?
                 <>
-                    <Placeholder as="p" animation="glow">
-                        <Placeholder xs={12} />
-                    </Placeholder>
-                    <Placeholder as="p" animation="wave">
-                        <Placeholder xs={12} />
-                    </Placeholder>
+                    <Spinner animation="border" variant="primary" />
+                    <Spinner animation="border" variant="secondary" />
+                    <Spinner animation="border" variant="success" />
+                    <Spinner animation="border" variant="danger" />
+                    <Spinner animation="border" variant="warning" />
+                    <Spinner animation="border" variant="info" />
+                    <Spinner animation="border" variant="dark" />
                 </>
 
                 :
