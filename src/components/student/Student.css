@@ -1,11 +1,15 @@
+.image{
+    border: 3px solid #FE676D !important;
+}
 .table{
     border: 2px solid #FE676D !important;
 }
 .button{
 background-color: #FE676D !important;
 color: #fff !important;
+border: 0 !important;
 }
-.fw-bold{
+.fw-bold,h1{
     color:#FE676D !important;
 }
 .result{
@@ -15,4 +19,7 @@ color: #fff !important;
 }
 tr{
     border: 2px solid #FE676D !important;
+}
+.result{
+     background-color:#FE676D !important;
 }

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Container } from 'react-bootstrap';
 import { Route } from 'react-router';
 import { BrowserRouter, Switch } from 'react-router-dom';
+import Search from '../search/Search';
 import Student from '../student/Student';
 import Students from '../students/Students';
 
@@ -24,6 +25,7 @@ const Home = () => {
     return (
         <Container>
             <BrowserRouter>
+                <Search search={search}></Search>
                 <Switch>
                     <Route exact path='/'>
                         <Students

@@ -1,6 +1,5 @@
 import { Card, Col, Row, Button } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import Search from '../search/Search';
 import './Students.css'
 
 const Students = (props) => {
@@ -9,7 +8,6 @@ const Students = (props) => {
 
     return (
         <>
-            <Search search={props.search}></Search>
             <Row xs={2} md={4} className="g-3">
                 {students.map(student =>
                     <Col key={student.boardRoll} >

@@ -17,11 +17,11 @@ const Student = (props) => {
         <Container>
 
             {gender === "Male" ?
-                <Image src="/male.jpg" roundedCircle />
+                <Image src="/male.jpg" className='image' roundedCircle />
                 :
-                <Image src="/female.jpg" roundedCircle />
+                <Image src="/female.jpg" className='image' roundedCircle />
             }
-            <h2>{name}</h2>
+            <h1 className='py-2'>{name}</h1>
             <Table bordered size="sm" className='table'>
                 <thead>
                 </thead>
@@ -72,10 +72,12 @@ const Student = (props) => {
                         </td>
                     </tr>
                     <tr>
-                        <td className="align-middle fw-bold">Result</td>
-                        <td>
-                            <Table bordered size="sm" className=' m-0'>
+                        <td colSpan='2'>
+                            <Table bordered size="sm" className=' m-0 mt-2'>
                                 <tbody>
+                                    <tr className='result'>
+                                        <td colSpan='2'>Result</td>
+                                    </tr>
                                     <tr>
                                         <td className='fw-bold'>1st Semester</td>
                                         <td>{result1st}</td>
@@ -121,7 +123,7 @@ const Student = (props) => {
                     </tr>
                 </tbody>
             </Table>
-            <Link to='/'>  <Button className='button'> Back To Home</Button></Link>
+            <Link to='/'>  <Button className='button mb-3'> Back To Student List</Button></Link>
         </Container >
     );
 };

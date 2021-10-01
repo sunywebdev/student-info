@@ -8,8 +8,8 @@ const Search = (props) => {
                 controlId="floatingInput"
                 label="Search Students ......."
                 className="my-3"
-            >
-                <Form.Control onChange={props.search} type="text" placeholder="suny" />
+                style={{ color: "#FE676D" }}>
+                <Form.Control onChange={props.search} type="text" placeholder="suny" style={{ border: "2px solid #FE676D" }} />
             </FloatingLabel>
         </div>
     );
