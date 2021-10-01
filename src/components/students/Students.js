@@ -9,7 +9,7 @@ const Students = (props) => {
     return (
         <>
             {students.length === 0 ?
-                <>
+                <div className="py-5">
                     <Spinner animation="border" variant="primary" />
                     <Spinner animation="border" variant="secondary" />
                     <Spinner animation="border" variant="success" />
@@ -17,7 +17,7 @@ const Students = (props) => {
                     <Spinner animation="border" variant="warning" />
                     <Spinner animation="border" variant="info" />
                     <Spinner animation="border" variant="dark" />
-                </>
+                </div>
 
                 :
 
