@@ -31,8 +31,6 @@ const Home = () => {
                             search={search}
                         ></Students>
                     </Route>
-                </Switch>
-                <Switch>
                     <Route path='/Student/:boardRoll'>
                         <Student students={students}></Student>
                     </Route>
