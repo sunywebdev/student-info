@@ -17,8 +17,8 @@ const Home = () => {
     }, [])
     const [searchStudent, setsearchStudent] = useState([])
     const search = (event) => {
-        const searchText = event.target.value
-        const search = students.filter(student => student.name.toLowerCase().includes(searchText.toLowerCase()))
+        const searchText = event.target.value.toLowerCase()
+        const search = students.filter(student => student.name.toLowerCase().includes(searchText))
         setsearchStudent(search)
     }
     return (
