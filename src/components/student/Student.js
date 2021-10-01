@@ -121,7 +121,7 @@ const Student = (props) => {
                     </tr>
                 </tbody>
             </Table>
-            <Link exact to='/'>  <Button className='button'> Back To Home</Button></Link>
+            <Link to='/'>  <Button className='button'> Back To Home</Button></Link>
         </Container >
     );
 };
