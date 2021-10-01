@@ -1,4 +1,4 @@
-import { Card, Col, Row, Button, Placeholder, Spinner } from 'react-bootstrap';
+import { Card, Col, Row, Button, Spinner } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import './Students.css'
 
