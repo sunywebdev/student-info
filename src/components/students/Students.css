@@ -1,21 +1,25 @@
-.card{
-     border:2px solid #FE676D !important;
-     transition: 0.5s;
-     color: #FE676D !important;
+.card {
+    border: 2px solid #FE676D !important;
+    transition: 0.5s;
+    color: #FE676D !important;
 }
-.card:hover{
+
+.card:hover {
     box-shadow: 0 4px 8px 0 #FE676D, 0 6px 20px 0 #FE676D;
 }
-.img{
-    border:3px solid #FE676D;
+
+.img {
+    border: 3px solid #FE676D;
     max-width: 150px !important;
 }
+
 @media (max-width: 576px) {
-    .img{
-     max-width: 120px !important;
+    .img {
+        max-width: 120px !important;
     }
 }
-.button{
-background-color: #FE676D !important;
-color: #fff !important;
+
+.button {
+    background-color: #FE676D !important;
+    color: #fff !important;
 }
