@@ -34,12 +34,14 @@ const Home = () => {
                     </Route>
                     <Route path='/Student/:boardRoll'>
                         <Student students={students}>
-                            <Button onClick={search} className='button mb-3'> Back To Student List</Button>
+                            <Button onClick={search} className='button mb-3 py-1 ' style={{
+                                borderRadius: '.25rem'
+                            }}> Back To Student List</Button>
                         </Student>
                     </Route>
                 </Switch>
             </BrowserRouter>
-        </Container>
+        </Container >
     );
 };
 
