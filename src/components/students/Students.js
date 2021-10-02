@@ -1,5 +1,6 @@
 import { Card, Col, Row, Button, Spinner } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
+import Search from '../search/Search';
 import './Students.css'
 
 const Students = (props) => {
@@ -8,6 +9,7 @@ const Students = (props) => {
 
     return (
         <>
+            <Search search={props.search}></Search>
             {students.length === 0 ?
                 <div className="py-5">
                     <Spinner animation="border" className='loading mx-2' />

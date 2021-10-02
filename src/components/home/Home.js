@@ -1,8 +1,8 @@
+import Button from '@restart/ui/esm/Button';
 import React, { useEffect, useState } from 'react';
 import { Container } from 'react-bootstrap';
 import { Route } from 'react-router';
 import { BrowserRouter, Switch } from 'react-router-dom';
-import Search from '../search/Search';
 import Student from '../student/Student';
 import Students from '../students/Students';
 
@@ -25,7 +25,6 @@ const Home = () => {
     return (
         <Container>
             <BrowserRouter>
-                <Search search={search}></Search>
                 <Switch>
                     <Route exact path='/'>
                         <Students
@@ -34,7 +33,9 @@ const Home = () => {
                         ></Students>
                     </Route>
                     <Route path='/Student/:boardRoll'>
-                        <Student students={students}></Student>
+                        <Student students={students}>
+                            <Button onClick={search} className='button mb-3'> Back To Student List</Button>
+                        </Student>
                     </Route>
                 </Switch>
             </BrowserRouter>

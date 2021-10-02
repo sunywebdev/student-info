@@ -123,7 +123,7 @@ const Student = (props) => {
                     </tr>
                 </tbody>
             </Table>
-            <Link to='/'>  <Button className='button mb-3'> Back To Student List</Button></Link>
+            <Link to='/'> { props.children}</Link>
         </Container >
     );
 };
