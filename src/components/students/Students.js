@@ -4,7 +4,7 @@ import Search from '../search/Search';
 import './Students.css'
 
 const Students = (props) => {
-    const { allStudents, students, searchText } = props
+    const { allStudents, students } = props
     console.log(students);
 
     return (
