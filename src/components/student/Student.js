@@ -12,6 +12,7 @@ const Student = (props) => {
     } = student || {}
 
     const result = ((parseFloat(result1st) / 5) + (parseFloat(result2nd) / 5) + ((result3rd === 'R' ? 0 : parseFloat(result3rd)) / 5) + ((result4th === 'R' ? 0 : parseFloat(result4th)) / 10)).toFixed(2)
+    const resultMax = ((4 / 5) + (4 / 5) + (4 / 5) + (4 / 10)).toFixed(2)
 
     return (
         <Container>
@@ -112,9 +113,8 @@ const Student = (props) => {
                                     </tr>
                                     <tr className="result">
                                         <td className=''>CGPA</td>
-                                        <td>{result}
-
-
+                                        <td>
+                                            <span className="fs-5">{result}</span> out of  <span className="fs-5">{resultMax}</span>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -123,7 +123,7 @@ const Student = (props) => {
                     </tr>
                 </tbody>
             </Table>
-            <Link to='/'> { props.children}</Link>
+            <Link to='/'> {props.children}</Link>
         </Container >
     );
 };
