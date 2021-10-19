@@ -22,6 +22,11 @@ const Home = () => {
         const search = students.filter(student => student.name.toLowerCase().includes(searchText))
         setsearchStudent(search)
     }
+/*     const searchUsingRoll = (event) => {
+        const searchRoll = parseInt(event.target.value)
+        const search = students.filter(student => student.boardRoll.includes(searchRoll))
+        setsearchStudent(search)
+    } */
     return (
         <Container>
             <BrowserRouter>
@@ -31,6 +36,7 @@ const Home = () => {
                             allStudents={students}
                             students={searchStudent}
                             search={search}
+                          /*   searchUsingRoll={searchUsingRoll} */
                         ></Students>
                     </Route>
                     <Route path='/Student/:boardRoll'>

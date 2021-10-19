@@ -4,7 +4,7 @@ import Search from '../search/Search';
 import './Students.css'
 
 const Students = (props) => {
-    const { allStudents, students } = props
+    const { allStudents, students, searchUsingRoll } = props
     console.log(students);
 
     return (
@@ -23,7 +23,10 @@ const Students = (props) => {
                     </div>
                     :
                     <>
-                        <Search search={props.search}></Search>
+                        <Search
+                            search={props.search}
+                            searchUsingRoll={searchUsingRoll}
+                        ></Search>
                         {
                             students?.length > 0
                                 ?
