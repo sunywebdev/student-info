@@ -17,8 +17,10 @@ const Home = () => {
             })
     }, [])
     const [searchStudent, setsearchStudent] = useState([])
+    const [searchText, setSearchText] = useState()
     const search = (event) => {
         const searchText = event.target.value.toLowerCase()
+        setSearchText(searchText)
         const search = students.filter(student => student.name.toLowerCase().includes(searchText))
         setsearchStudent(search)
     }
@@ -28,8 +30,10 @@ const Home = () => {
                 <Switch>
                     <Route exact path='/'>
                         <Students
+                            allStudents={students}
                             students={searchStudent}
                             search={search}
+                            searchText={searchText}
                         ></Students>
                     </Route>
                     <Route path='/Student/:boardRoll'>
