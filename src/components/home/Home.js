@@ -9,7 +9,7 @@ import Sort3rdResult from '../SortResult/Sort3rdResult';
 import Sort4thResult from '../SortResult/Sort4thResult';
 import Student from '../student/Student';
 import Students from '../students/Students';
-
+import SortCgpaResult from '../SortResult/sortCgpaResult'
 const Home = () => {
     const [students, setStudents] = useState([])
     useEffect(() => {
@@ -69,6 +69,11 @@ const Home = () => {
                         <Sort4thResult
                             students={students}>
                         </Sort4thResult>
+                    </Route>
+                    <Route path='/sortCgpaResult'>
+                        <SortCgpaResult
+                            students={students}>
+                        </SortCgpaResult>
                     </Route>
                 </Switch>
             </BrowserRouter>

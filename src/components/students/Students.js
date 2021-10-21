@@ -33,7 +33,7 @@ const Students = (props) => {
                                 < Row xs={2} md={4} className="g-2 g-md-3">
                                     {students.map(student =>
                                         <Col key={student.boardRoll} >
-                                            <Card className='h-100 card'>
+                                            <Link to={`/Student/${student.boardRoll}`} className='text-decoration-none'>  <Card className='h-100 card'>
                                                 {student.gender === "Male" ?
                                                     <Card.Img variant="top mt-2 rounded-circle mx-auto img" src="/male.jpg" />
                                                     :
@@ -47,9 +47,9 @@ const Students = (props) => {
                                                         {student.boardRoll}
                                                     </Card.Text>
                                                     <Link to={`/Student/${student.boardRoll}`}> <Button variant="" className='py-1 button'>Show Details</Button></Link>
-                                                </Card.Body>
+                                                </Card.Body> </Card>
+                                            </Link>
 
-                                            </Card>
                                         </Col>
                                     )}
                                 </Row>

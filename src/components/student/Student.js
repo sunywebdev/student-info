@@ -13,6 +13,7 @@ const Student = (props) => {
 
     const result = ((parseFloat(result1st) / 5) + (parseFloat(result2nd) / 5) + ((result3rd === 'R' ? 0 : parseFloat(result3rd)) / 5) + ((result4th === 'R' ? 0 : parseFloat(result4th)) / 10)).toFixed(2)
     const resultMax = ((4 / 5) + (4 / 5) + (4 / 5) + (4 / 10)).toFixed(2)
+    
 
     return (
         <Container>
