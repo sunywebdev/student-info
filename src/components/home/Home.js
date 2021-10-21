@@ -3,6 +3,10 @@ import React, { useEffect, useState } from 'react';
 import { Container } from 'react-bootstrap';
 import { Route } from 'react-router';
 import { BrowserRouter, Switch } from 'react-router-dom';
+import Sort1stResult from '../SortResult/Sort1stResult';
+import Sort2ndResult from '../SortResult/Sort2ndResult';
+import Sort3rdResult from '../SortResult/Sort3rdResult';
+import Sort4thResult from '../SortResult/Sort4thResult';
 import Student from '../student/Student';
 import Students from '../students/Students';
 
@@ -22,11 +26,11 @@ const Home = () => {
         const search = students.filter(student => student.name.toLowerCase().includes(searchText))
         setsearchStudent(search)
     }
-/*     const searchUsingRoll = (event) => {
-        const searchRoll = parseInt(event.target.value)
-        const search = students.filter(student => student.boardRoll.includes(searchRoll))
-        setsearchStudent(search)
-    } */
+    /*     const searchUsingRoll = (event) => {
+            const searchRoll = parseInt(event.target.value)
+            const search = students.filter(student => student.boardRoll.includes(searchRoll))
+            setsearchStudent(search)
+        } */
     return (
         <Container>
             <BrowserRouter>
@@ -36,7 +40,7 @@ const Home = () => {
                             allStudents={students}
                             students={searchStudent}
                             search={search}
-                          /*   searchUsingRoll={searchUsingRoll} */
+                        /*   searchUsingRoll={searchUsingRoll} */
                         ></Students>
                     </Route>
                     <Route path='/Student/:boardRoll'>
@@ -45,6 +49,26 @@ const Home = () => {
                                 borderRadius: '.25rem'
                             }}> Back To Student List</Button>
                         </Student>
+                    </Route>
+                    <Route path='/Sort1stResult'>
+                        <Sort1stResult
+                            students={students}>
+                        </Sort1stResult>
+                    </Route>
+                    <Route path='/Sort2ndResult'>
+                        <Sort2ndResult
+                            students={students}>
+                        </Sort2ndResult>
+                    </Route>
+                    <Route path='/Sort3rdResult'>
+                        <Sort3rdResult
+                            students={students}>
+                        </Sort3rdResult>
+                    </Route>
+                    <Route path='/Sort4thResult'>
+                        <Sort4thResult
+                            students={students}>
+                        </Sort4thResult>
                     </Route>
                 </Switch>
             </BrowserRouter>
